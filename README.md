@@ -22,3 +22,7 @@ Tricore App is a modern food delivery and errand service platform offering real-
 git clone https://github.com/seade95/tricore-app.git
 cd tricore-app
 open index.html
+
+## License
+
+MIT License © 2025 Seade Samuel
